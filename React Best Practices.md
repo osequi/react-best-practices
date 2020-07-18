@@ -12,11 +12,11 @@ However, many of them find the learning curve for React steep[^3].
 
 That's right. 
 
-React is not *just* another web framework[^4]. It's a completely new programming style and information architecture nothing to do with previous paradigms like MVC and REST[^5].
+React is not *JAWF* -- just another web framework[^4]. It's a completely new programming style and information architecture nothing to do with previous paradigms like MVC and REST[^5].
 
-Learning React means learning type-safety; functional and reactive programming; declarative web development; design systems; data-driven applications built on graph databases and event-driven architecture.
+Learning React means learning type-safety; functional and reactive programming; data-driven applications; graph databases and event-driven architectures.
 
-Learn React is best possible within a new context[^6].
+Learning React is best possible within a new context[^6].
 
 
 ## Footnotes
