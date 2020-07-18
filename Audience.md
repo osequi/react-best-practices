@@ -3,7 +3,7 @@
 ## Current knowledge and skills
 - React developers
 	- Beginners
-	- Experience, with or without Hooks knowledge
+	- Experienced, with or without Hooks knowledge
 - Would be React developers who have coding background skills
 
 ## What they need to learn

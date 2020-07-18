@@ -10,7 +10,7 @@ However, many of them find the learning curve for React steep[^3].
 
 That's right. 
 
-React is not *YAWF* -- yet another web framework[^4]. It's a completely new programming style and information architecture nothing to do with previous paradigms like MVC and REST[^5].
+React is not *YAWF* -- Yet Another Web Framework[^4]. It's a completely new programming style and information architecture on the web -- nothing to do with previous paradigms like MVC and REST[^5].
 
 Learning React means learning type-safety; functional and reactive programming; data-driven applications; graph databases and event-driven architectures.
 
