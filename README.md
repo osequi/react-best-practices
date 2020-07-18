@@ -1,5 +1,6 @@
 # react-best-practices
 React Best Practices
 
-Created with https://obsidian.md/
+- Created with https://obsidian.md/
+- See [[React Best Practices]]
 
