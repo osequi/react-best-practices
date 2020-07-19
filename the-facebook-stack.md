@@ -28,7 +28,7 @@ In a next project embrace GraphQL with a non-Relay server like Apollo.
 
 As a last step adhere to the complete Facebook stack with Relay.
 
-Better follow the creators. Reinventing the wheel is always costly and painful.
+Better follow the creators. Reinventing the wheel is always fun but in the same time costly and painful.
 
 ## Footnotes
 [^1]: [We're gonna program like it's 1999](http://metamn.io/react/were-gonna-program-like-its-1999/)
