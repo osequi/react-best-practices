@@ -6,17 +6,19 @@ Created by Facebook in 2013 the ecosystem grew mature in 2019. That year the fac
 
 Strong support from a major player, for a stack used in live production drove the attention of web and Javascript developers already familiar another frameworks.
 
-Devs migrating to React often found the learning curve steep[^3]. 
+Developers flocking by night to React often found the learning curve steep[^3]. They were right and the reasons vary. 
 
 React brings more novelty and features to the table compared to other emerging frameworks like Vue, Svelte. 
 
 On information architecture the React stack with GraphQL and Relay represents a totals shift from incumbent MVC, REST, Client-server architectures.  
 
-React is not **Yet Another Web Framework (YAWF)**[^4]. 
+It' time to state React is not **Yet Another Web Framework (YAWF)**[^4]. 
 
 It's a new programming and information architecture paradigm unseen before on the web.
 
 Learning React means learning type-safety; functional and reactive programming; data-driven applications; graph databases and event-driven architectures.
+
+And as they say, forgetting apriori knowledge about web development may greatly help along the process.
 
 ## Footnotes
 [^1]: [The State of JavaScript Survey 2019](https://2019.stateofjs.com/front-end-frameworks/)

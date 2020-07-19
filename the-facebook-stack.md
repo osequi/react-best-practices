@@ -20,15 +20,18 @@ With the new stack:
 
 Making one's mind to embrace the whole new stack is not a trivial task. 
 
-Perhaps the process should start with learning functional and reactive programming. 
+Perhaps one should:
 
-Then try React in a classic enveironment:  MVC / REST / CRUD / Client-server architecture. 
+1. Start with learning functional and reactive programming. 
+2. Go through Thinking in React.
+3. Try React in a classic enveironment:  MVC / REST / CRUD / Client-server architecture. 
+4. Embrace GraphQL with a non-Relay server like Apollo.
+5. Adhere to the complete Facebook stack with Relay.
+6. Understand Event-driven architecture.
 
-In a next project embrace GraphQL with a non-Relay server like Apollo.
+If there is plenty of will, time and courage an exciting new ecosystem will unfold. 
 
-As a last step adhere to the complete Facebook stack with Relay.
-
-Better follow the creators. Reinventing the wheel is always fun but in the same time costly and painful.
+Where all parts are equally important and even replaceable they prove they were made to work together 
 
 ## Footnotes
 [^1]: [We're gonna program like it's 1999](http://metamn.io/react/were-gonna-program-like-its-1999/)
