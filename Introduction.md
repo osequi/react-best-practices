@@ -6,7 +6,7 @@ Created by Facebook in 2013 the ecosystem grew mature in 2019. That year the fac
 
 Strong company support attracts web developers coming from Javascript or from other programming languages. They often find the learning curve for React steep[^3]. 
 
-That's right. React is not *YAWF* -- Yet Another Web Framework[^4]. 
+That's right. React is not **Yet Another Web Framework (YAWF)**[^4]. 
 
 It's a new programming style and information architecture for the web. Nothing to share with previous paradigms like MVC and REST[^5].
 
