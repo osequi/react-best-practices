@@ -12,7 +12,7 @@ As expected the advantages of Thinking in React show up after a couple of projec
 
 - Decision making becomes easy. 
 - Code written by a team looks like code written by a single person.
-- A set of re-usable components and business logic (captured in hooks) emerges and grows from project to project.
+- Re-usable components and business logic emerges and grows from project to project.
 
 
 ## Footnotes
