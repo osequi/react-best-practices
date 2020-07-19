@@ -31,7 +31,7 @@ Perhaps one should:
 
 If there is plenty of will, time and courage an exciting new ecosystem will unfold. 
 
-Where all parts are equally important and even replaceable they prove they were made to work together 
+Where all parts are equally important and even replaceable they prove they were made to fit and work together. 
 
 ## Footnotes
 [^1]: [We're gonna program like it's 1999](http://metamn.io/react/were-gonna-program-like-its-1999/)
