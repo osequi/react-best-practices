@@ -2,5 +2,5 @@
 React Best Practices
 
 - Created with https://obsidian.md/
-- See [[React Best Practices]]
+- See [[react-best-practices]]
 
