@@ -1,35 +1,20 @@
 # Audience
 
-## Personas
-1. React developer
-2. Web developer
-3. Javascript developer
-4. Non-web developer (C#), software engineer
+React is for everyone. Either coming as a complete beginner from a coding school or having a priori web development experience.
 
-## Current knowledge and skills
-1. React developer
-	1. Basic React lifecycle
-	2. REST APIs
-	3. HTML, CSS, Javascript
-	4. Hooks, GraphQL
-2. Web developer
-	1. HTML, CSS, Javascript
-	2. REST APIs
-	3. Frameworks like Rails, Laravel (MVC) or WordPress
-	4. Static site generators
-	5. Client / server architecture
-3. Javascript developer
-	1. Full-stack 
-	2. Express, Mongo, JAMStack
-	3. HTML, CSS, Javascript
-	4. ...
-4. Software engineer
-	1. Client / server architecture
-	2. APIs
-	3. DOM
+Nor the perviously known programming languages and paradigms matter. Unless they are from the functional, event-driven spectrum.
 
-## What they need to learn
-1. React is not another web framework
-2. React goes hand in hand with GraphQL, Relay, and more
-3. How to write React apps following the Facebook way
-4. How to write React apps using the Facebook stack
+React is suitable for everyone because it's a completely novel approach to web development.
+
+If one already knows HTML, CSS and Javascript it might help but doesn't offer a real competitive advantage. Web components and Design Systems hide these abstractions and already incorporate the necessary knowledge to build web applications. 
+
+Javascript knowledge only helps if it's functional. In React no one will write complex algorithms; instead it will manipulate the data flow using functional programming concepts like map, filter and reduce.
+
+In the same way older paradigms like MVC, REST, CRUD, Client-server architecture are useless in the React ecosystem. With GraphQL and Relay comes queries, mutations and subscriptions -- concepts unseen in previous web frameworks.
+
+When people are learning React they'll have to learn: 
+
+1. React is not another web framework.
+2. React is functional and reactive.
+3. It comes together with a complete stack.
+5. It's better to write React apps using the Facebook way.
