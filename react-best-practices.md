@@ -6,6 +6,9 @@
 - [[introduction-1]] - more disciplined version
 
 ## The Facebook way
+
+-[[the-facebook-way]]
+
 ## The Facebook stack
 ## Glossary
 
