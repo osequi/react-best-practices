@@ -2,7 +2,7 @@
 
 React is the most popular web framework today[^1].  
 
-Created by Facebook in 2013 the ecosystem grew mature in 2019. That year the facebook.com redesign and rewrite stack of choice is React, GraphQL and Relay[^2].
+Created by Facebook in 2013 the ecosystem grew mature in 2019. That year the facebook.com redesign and rewrite stack of choice became React, GraphQL and Relay[^2].
 
 Strong company support attracts web developers coming from Javascript or from other programming languages. They often find the learning curve for React steep[^3]. 
 
