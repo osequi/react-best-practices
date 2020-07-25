@@ -9,21 +9,19 @@
 - [[audience]]
 
 ## The Facebook stack
-
 - [[the-facebook-stack]]
 
 ## The Facebook way
-
--[[the-facebook-way]]
+- [[the-facebook-way]]
 
 ## Thinking in React
--[[thinking-in-react]]
+- [[thinking-in-react]]
 
 ## Functional and Reactive programming
 - [[functional-and-reactive-programming]]
 
 ## Data-driven applications
--[[data-driven-applications]]
+- [[data-driven-applications]]
 
 ## AWS and React
 - [[aws]]
