@@ -4,15 +4,9 @@ React is the most popular web framework today[^1].
 
 Created by Facebook in 2013 the ecosystem grew mature in 2019. That year the facebook.com redesign and rewrite stack of choice became React, GraphQL and Relay[^2].
 
-Strong support from a major player, for a stack used in live production drove the attention of web and Javascript developers already familiar another frameworks.
+Strong support from a major player drove the attention of web and Javascript developers already familiar with another frameworks.
 
-Developers flocking by night to React often found the learning curve steep[^3]. They were right and the reasons vary. 
-
-React brings more novelty and features to the table compared to other emerging frameworks like Vue, Svelte. 
-
-On information architecture the React stack with GraphQL and Relay represents a totals shift from incumbent MVC, REST, Client-server architectures.  
-
-It' time to state React is not **Yet Another Web Framework (YAWF)**[^4]. 
+Devs flocking to React often found the learning curve steep[^3]. due to the fact React brings more novelty to the table than other emerging frameworks like Vue, Svelte. 
 
 It's a new programming and information architecture paradigm unseen before on the web.
 
