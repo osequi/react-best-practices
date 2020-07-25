@@ -24,14 +24,25 @@ In Thinking in React front-end developers are in power. They mock up the applica
 
 ### Single Responsibility Principle (SRP)
 
-New paradigms are built on new principles. 
+New principles build new paradigms. 
 
-A decade ago Ruby on Rails made MVC, REST, CRUD mainstream together with the **Don't Repeat Yourself (DRY)** principle.
+A decade ago Ruby on Rails made MVC, REST and CRUD mainstream together with the **Don't Repeat Yourself (DRY)** principle.
 
-Now Facebook introduces SRP to the web. The concept is not new, is part of the UNIX philosophy: do one thing and do it well.
+Now Facebook introduces another principle, SRP, to the web. The concept is not new, is part of the UNIX philosophy: do one thing and do it well.
 
 Thinking in React says breaking up the UI into components should follow this principle of simplicity. 
 
 "A component should ideally only do one thing. If it ends up growing, it should be decomposed into smaller subcomponents. 
 
 Once mastered this principle drives all decisions during a React project. From front-end down the whole stack and process.
+
+## First, build a static version
+
+The mocking process assures all stakeholders about the common understanding of the business requirements. And offers the first proof of concept the app will follow the specifications.
+
+Next, Thinking in React says, let's wire in data. Let's repeat the success of the previous UI mocking process now on a level up.
+
+Static data means no back-end work involved yet. Front-end tools are capable to generate text, images, and content necessary to give a glimpse how the final app will look.
+
+The end of this phase marks a milestone. The app works infantly yet visibly leaving no doubts about. 
+
