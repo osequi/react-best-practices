@@ -6,15 +6,15 @@ As always, is best to follow the creators.
 
 Facebook, the creator of React, published Thinking in React[^1] -- a set of guidelines "to think about apps as you build them" or  "the thought process of building with React".
 
-Omitting these guidelines means reinventing the wheel. Chances are null for one to come up with a better solution unless masters better resources than Facebook.
+Omitting these guidelines is reinventing the wheel. Chances are slim to come up with a better solution. Unless one masters better resources than Facebook.
 
-As expected the advantages of Thinking in React show up after a couple of projects. 
+Practicing Thinking in React surfaces, after a while, the following advantages: 
 
 - Decision making becomes easy. 
 - Code written by a team looks like code written by a single person.
-- Re-usable components and business logic emerges and grows from project to project.
+- Re-usable components and business logic grows from project to project becoming wealth.
 
-What is Thinking in React ??
+## What is Thinking in React, Then?
 
 ## Footnotes
 [^1]: [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
