@@ -2,7 +2,7 @@
 
 React is one piece of the puzzle.
 
-Facebook decided a decade ago to rethink their entire web programming and infrastructure[^1] approach. They threw out everything old and replaced:
+Facebook decided a decade ago to rethink their approach to web programming and infrastructure[^1] . They threw out everything old and replaced:
 
 - Imperative programming with functional and reactive programming
 - DOM with the shadow DOM
@@ -18,16 +18,14 @@ With the new stack:
 - Devs *declare* the app style using design systems vs. writing HTML and CSS by hand.
 - The ecosystem, GraphQL and Relay, handles all else in the background. Collects all data needs of a page into a single call to the backend -- for example.
 
-Making one's mind to embrace this new stack is not always trivial. 
-
-When learning React perhaps one should:
+Making one's mind to embrace this new stack is not always trivial. Learning React perhaps should follow the small steps:
 
 1. Start with learning functional and reactive programming. 
 2. Read and understand Thinking in React.
 3. Try React in a classic REST API environment.
 4. Move to GraphQL with a non-Relay server like Apollo.
 5. Swicth to the complete Facebook stack with Relay.
-6. Learn type safety; data-driven applications; graph databases and event-driven architectures.
+6. Understand type safety; data-driven applications; graph databases and event-driven architectures.
 
 With plenty of will, time and courage an exciting new ecosystem will unfold. 
 
