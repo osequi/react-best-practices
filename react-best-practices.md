@@ -16,7 +16,6 @@
 
 -[[the-facebook-way]]
 
-
 ## Functional and Reactive programming
 - http://metamn.io/react/the-reactive-fuctional-nature-of-react/
 
