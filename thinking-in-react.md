@@ -4,20 +4,34 @@
 
 The knowledge distilled here comes from building their own Facebook and Instagram products. 
 
-At the top of the document they rush to state React has a special way to think about app development. It's a different thought process than we are acustomed to.
+At the top of the document they rush to state React has a special way to think about app development. It's a different thought process than the previous attempts.
 
 ## Start with a  Mock
 
 In [What Are the React Team Principles?](https://overreacted.io/what-are-the-react-team-principles/) Dan Abramov, React core-member and developer advocate starts with: UI before API.
 
-Now that's a completely new approach. Before React the thought process was:
+Now that's a new approach. Before React the thought process was:
 
 1. The UI/UX design team creates mockups and wireframes.
 2. The back-end team creates the API.
 3. The front-end team merges the two together. 
 
-Facebook realised this approach is flawed. What the users see -- the app -- is the result of a complicated merging process across multiple departments done at the end.
+Facebook realised the drawbacks of this approach. What the users see -- the app -- is the result of a complicated merging process across departments, done at the end.
 
 Instead, they said, let's start with front-end then connect everything else to it.  UI before API.
 
-In Thinking in React front-end developers are empowered. They have that noble task to mock up the application, to create a responsive wireframe of what needs to be done.
+In Thinking in React front-end developers are in power. They mock up the application.
+
+### Single Responsibility Principle (SRP)
+
+New paradigms are built on new principles. 
+
+A decade ago Ruby on Rails made MVC, REST, CRUD mainstream together with the **Don't Repeat Yourself (DRY)** principle.
+
+Now Facebook introduces SRP to the web. The concept is not new, is part of the UNIX philosophy: do one thing and do it well.
+
+Thinking in React says breaking up the UI into components should follow this principle of simplicity. 
+
+"A component should ideally only do one thing. If it ends up growing, it should be decomposed into smaller subcomponents. 
+
+Once mastered this principle drives all decisions during a React project. From front-end down the whole stack and process.
