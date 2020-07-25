@@ -6,11 +6,11 @@ Created by Facebook in 2013 the ecosystem grew mature in 2019. That year the fac
 
 Strong support from a major player drove the attention of web and Javascript developers already familiar with another frameworks.
 
-Devs flocking to React often found the learning curve steep[^3]. due to the fact React brings more novelty to the table than other emerging frameworks like Vue, Svelte. 
+Devs flocking to React often found the learning curve steep[^3] -- due to the fact React brings more novelty to the table than other emerging frameworks like Vue, Svelte. 
 
-It's a new programming and information architecture paradigm unseen before on the web.
+It's a new programming, and information architecture paradigm unused before on the web.
 
-Learning React means learning type-safety; functional and reactive programming; data-driven applications; graph databases and event-driven architectures.
+Learning React means learning type-safety; functional and reactive programming; data-driven applications; and event-driven architectures.
 
 And as they say, forgetting apriori knowledge about web development may greatly help along the process.
 

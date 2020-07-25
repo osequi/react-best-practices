@@ -1,6 +1,8 @@
 # The Facebook way
 
-React is an un-opinionated framework. Apps written in React vary in coding style from developer to developer, company to company.
+React is an un-opinionated framework.
+
+Apps written in React vary in coding style from developer to developer, company to company.
 
 As always, is best to follow the creators.
 
@@ -13,8 +15,6 @@ Practicing Thinking in React surfaces, after a while, the following advantages:
 - Decision making becomes easy. 
 - Code written by a team looks like code written by a single person.
 - Re-usable components and business logic grows from project to project becoming wealth.
-
-What is Thinking in React, then?
 
 ## Footnotes
 [^1]: [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
