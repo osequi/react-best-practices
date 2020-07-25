@@ -36,7 +36,7 @@ Thinking in React says breaking up the UI into components should follow this pri
 
 Once mastered this principle drives all decisions during a React project. From front-end down the whole stack and process.
 
-## First, build a static version
+## Build a static version first
 
 The mocking process assures all stakeholders about the common understanding of the business requirements. And offers the first proof of concept the app will follow the specifications.
 
@@ -44,5 +44,23 @@ Next, Thinking in React says, let's wire in data. Let's repeat the success of th
 
 Static data means no back-end work involved yet. Front-end tools are capable to generate text, images, and content necessary to give a glimpse how the final app will look.
 
-The end of this phase marks a milestone. The app works infantly yet visibly leaving no doubts about. 
+The end of this phase marks a milestone. The app works infantly yet visibly leaving no doubts about its feasibility.
+
+## Add interactivity
+
+The dynamic version of the app brings technological advancements to the project.
+
+This phase defines the data needs of the front-end. Back-end is now ready to start the implementation. 
+
+The UI/UX design team is ready to take the live, responsive prototype and apply the branding.
+
+Different teams enter the project and kept in sync by front-end who gradually integrates the advancements and offers a single source of truth. 
+
+## Wrapping up
+
+Thinking in React is a process well-tested to build large scale applications. 
+
+Introduces a new principle to web development and shifts control to the front-end.
+
+The steps assure stakeholders about the future success of the product.
 
