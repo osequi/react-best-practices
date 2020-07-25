@@ -13,4 +13,4 @@ When learning React one will find out:
 1. React is not just another web framework.
 2. React is functional and reactive.
 3. It comes together with am ecosystem, a complete stack from UI design to back-end servers.
-4. React apps are best written using Facebook' guidelines.
+4. React apps are best written using Facebook's original guidelines.

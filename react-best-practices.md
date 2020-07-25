@@ -16,17 +16,33 @@
 
 -[[the-facebook-way]]
 
-## Functional and Reactive programming
-- http://metamn.io/react/the-reactive-fuctional-nature-of-react/
-
 ## Thinking in React
+-[[thinking-in-react]]
 
-## GraphQL vs. REST APIs
+## Functional and Reactive programming
+- [[functional-and-reactive-programming]]
 
-## The React server landscape
-- Apollo vs. AWS vs. Relay
+## Data-driven applications
+-[[data-driven-applications]]
 
-## Awesome third parties
+## AWS and React
+- [[aws]]
+
+## Domain-driven design
+- [[domain-driven-design]]
+
+## Event-driven architecture
+- [[event-driven-architecture]]
+
+## Design systems
+- [[design-systems]]
+
+## Formal verification (aka Testing)
+- [[formal-verification]]
+
+## Open source packages
+- [[awesome-react]]
+
 
 ## Glossary
 
