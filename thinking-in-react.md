@@ -56,11 +56,11 @@ The UI/UX design team is ready to take the live, responsive prototype and apply 
 
 Different teams enter the project and kept in sync by front-end who gradually integrates the advancements and offers a single source of truth. 
 
-## Wrapping up
+## Summary
 
 Thinking in React is a process well-tested to build large scale applications. 
 
 Introduces a new principle to web development and shifts control to the front-end.
 
-The steps assure stakeholders about the future success of the product.
+The steps gradually assure stakeholders about the future success of the product.
 
