@@ -12,7 +12,7 @@ It's a new programming, and information architecture paradigm unused before on t
 
 Learning React means learning type-safety; functional and reactive programming; data-driven applications; and event-driven architectures.
 
-And as they say, forgetting apriori knowledge about web development may greatly help along the process.
+And as they say, forgetting a priori knowledge about web development may greatly help along the process.
 
 ## Footnotes
 [^1]: [The State of JavaScript Survey 2019](https://2019.stateofjs.com/front-end-frameworks/)

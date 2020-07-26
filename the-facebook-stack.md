@@ -9,7 +9,7 @@ Facebook decided a decade ago to rethink their approach to web development and i
 - HTML, CSS and Javascript with web components and design systems
 - Client-server architecture with Event-driven architecture
 - REST APIs with GraphQL APIs
-- Don't Repeat Yourself (DRY) with the **Single Responsability Principle (SRP)**
+- Don't Repeat Yourself (DRY) with the **Single Responsibility Principle (SRP)**
 
 With the new stack:
 
@@ -24,7 +24,7 @@ Making one's mind to embrace this new stack is not always trivial. Learning Reac
 2. Understand and adhere to Thinking in React.
 3. Try React in a classic REST API environment.
 4. Move to GraphQL with a non-Relay server like Apollo.
-5. Swicth to the complete Facebook stack with Relay.
+5. Switch to the complete Facebook stack with Relay.
 6. Understand type safety; data-driven applications; and event-driven architectures.
 
 With plenty of will, time and courage an exciting new ecosystem will unfold. Where all parts are important, made to fit and work together. 

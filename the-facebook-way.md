@@ -1,6 +1,6 @@
 # The Facebook way
 
-React is an un-opinionated framework.
+React is an unopinionated framework.
 
 Apps written in React vary in coding style from developer to developer, company to company.
 

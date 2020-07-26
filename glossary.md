@@ -2,7 +2,7 @@
 
 ## GraphQL
 ## Relay
-## Type satefy
+## Type safety
 ## Functional and reactive programming
 ## Data-driven applications
 ## Graph databases

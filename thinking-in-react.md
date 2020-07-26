@@ -1,6 +1,6 @@
 # Thinking in React
 
-[Thinking in React](https://reactjs.org/docs/thinking-in-react.html) is Facebook's opinion on how "to build big, fast Web apps with JavaScript."
+Thinking in React[^1] is Facebook's opinion on how "to build big, fast Web apps with JavaScript."
 
 The knowledge distilled here comes from building their own Facebook and Instagram products. 
 
@@ -8,7 +8,7 @@ At the top of the document they rush to state React has a special way to think a
 
 ## Start with a  Mock
 
-In [What Are the React Team Principles?](https://overreacted.io/what-are-the-react-team-principles/) Dan Abramov, React core-member and developer advocate starts with: UI before API.
+In *What Are React Principles?*[^2] Dan Abramov, React core-member and developer advocate starts with: UI before API.
 
 Now that's a new approach. Before React the thought process was:
 
@@ -63,4 +63,9 @@ Thinking in React is a process well-tested to build large scale applications.
 Introduces a new principle to web development and shifts control to the front-end.
 
 The steps gradually assure stakeholders about the future success of the product.
+
+## Footnotes
+[^1]: [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) 
+[^2]: [What Are the React Team Principles?](https://overreacted.io/what-are-the-react-team-principles/)
+
 

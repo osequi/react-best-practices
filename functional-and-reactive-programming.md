@@ -30,13 +30,13 @@ Side effects need special attention to keep components resilient, to keep data a
 
 Coupling means communication between the components of a system. 
 
-To make a system scale communication has to be in the same effective as composition.
+To make a system scalable, communication has to be as effective as composition.
 
 Reactive programming achieves this through:
 
-1. Single Reponsibility Principle, where components:
-	1. Are aware of, and care about their own problems.
-	2. Does not interfere with the internals of ther components.
+1. The Single Responsibility Principle, where components:
+	1. Are aware of, and care about their own problems solely.
+	2. Does not interfere with the internals of other components.
 2. Asynchronous, event-based communication where components:
 	1. Subscribe to events.
 	2. React when an event happens.
@@ -48,7 +48,7 @@ React's props, hooks and JSX are implementing functional reactive programming pr
 
 Props are immutable; hooks manage the side-effects; JSX is an observable.
 
-*Fig.1 React as a functional reactive architeture*
+*Fig.1 React as a functional reactive architecture*
 ![functional-reactive-react.png](functional-reactive-react.png)
 
 
