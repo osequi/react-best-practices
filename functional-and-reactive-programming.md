@@ -35,7 +35,7 @@ To make a system scale communication has to be in the same effective as composit
 Reactive programming achieves this through:
 
 1. Single Reponsibility Principle, where components:
-	1. Are aware of, and care about their own problems exclusively.
+	1. Are aware of, and care about their own problems.
 	2. Does not interfere with the internals of ther components.
 2. Asynchronous, event-based communication where components:
 	1. Subscribe to events.
@@ -44,11 +44,11 @@ Reactive programming achieves this through:
 
 ## Summary
 
-React's props, hooks and JSX implement functional reactive programming principles.
+React's props, hooks and JSX are implementing functional reactive programming principles.
 
 Props are immutable; hooks manage the side-effects; JSX is an observable.
 
-*React as a functional reactive architeture*
+*Fig.1 React as a functional reactive architeture*
 ![functional-reactive-react.png](functional-reactive-react.png)
 
 
