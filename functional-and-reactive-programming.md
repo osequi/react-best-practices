@@ -20,7 +20,10 @@ In functional programming terms they are *pure*:
 2. Process input parameters into return values in a clean way:
 	1. Avoid modification of input parameters.
 	2. Avoid adding external information. Input parameters are enough to produce the return value. 
-	3. Avoid addeing external operations. The algorithm does the transformation and that's all.
+	3. Avoid adding external operations. The algorithm does the transformation and that's all.
+
+Pure functions alone cannot build a complex system. Impure functions -- non-pure functions with *side effects* -- can help.
+
 
 
 ## Footnotes
