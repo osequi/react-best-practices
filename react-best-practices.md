@@ -20,23 +20,23 @@
 ## Functional and Reactive programming
 - [[functional-and-reactive-programming]]
 
+## Event-driven architecture
+- [[event-driven-architecture]]
+
 ## Data-driven applications
 - [[data-driven-applications]]
 
-## AWS and React
-- [[aws]]
-
 ## Domain-driven design
 - [[domain-driven-design]]
-
-## Event-driven architecture
-- [[event-driven-architecture]]
 
 ## Design systems
 - [[design-systems]]
 
 ## Formal verification (aka Testing)
 - [[formal-verification]]
+
+## React and AWS
+- [[aws]]
 
 ## Open source packages
 - [[awesome-react]]
