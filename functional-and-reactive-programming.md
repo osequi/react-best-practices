@@ -22,12 +22,15 @@ In functional programming terms they are *pure*:
 	2. Avoid adding external information. Input parameters are enough to produce the return value. 
 	3. Avoid adding external operations. The algorithm does the transformation and that's all.
 
-Pure functions alone cannot build a complex system. Impure functions -- non-pure functions with *side effects* -- can help.
+Pure functions and components alone cannot build a complex system. Impurity -- non-pure with *side effects* -- is the rescue.
+
+Side effects need special attention to keep components resilient, to keep data and interactions flowing seamlessly through the component hierarchy during page rendering[^2].
 
 
 
 ## Footnotes
 [^1]: [An Introduction to Functional Reactive Programming](https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
+[^2]: [Writing Resilient Components](https://overreacted.io/writing-resilient-components/#writing-resilient-components)
 
 ## Resources
 1. [The original article](http://metamn.io/react/the-reactive-fuctional-nature-of-react/)
