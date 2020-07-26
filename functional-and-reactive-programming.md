@@ -10,7 +10,7 @@ To clear the picture let's abstract modularity and interaction to *composition* 
 
 Composition is about how the components of the system can add up to form a whole, while coupling is about how they communicate with each other.
 
-## Composition
+## Composition (Functional programming)
 
 Composing up a system from smaller parts is best possible when the underlying components behave predictably. 
 
@@ -25,6 +25,22 @@ In functional programming terms they are *pure*:
 Pure functions and components alone cannot build a complex system. Impurity -- non-pure with *side effects* -- is the rescue.
 
 Side effects need special attention to keep components resilient, to keep data and interactions flowing seamlessly through the component hierarchy during page rendering[^2].
+
+## Coupling (Reactive programming)
+
+Coupling means communication between the components of a system. 
+
+To make a system scale communication has to be in the same effective as composition.
+
+Reactive programming achieves this through:
+
+1. Isolation:
+	1. Exclusivity - Components are aware of, and care about their own problems.
+	2. No interference - Components does not interfere with each other’s inner workings.
+2. Asynchronous, event-based communication where components:
+	1. Subscribe to events.
+	2. React when an event happens.
+	3. Return an observable — which emits events other components can subscribe to.
 
 
 
