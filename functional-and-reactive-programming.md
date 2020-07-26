@@ -34,14 +34,22 @@ To make a system scale communication has to be in the same effective as composit
 
 Reactive programming achieves this through:
 
-1. Isolation:
-	1. Exclusivity - Components are aware of, and care about their own problems.
-	2. No interference - Components does not interfere with each other’s inner workings.
+1. Single Reponsibility Principle, where components:
+	1. Are aware of, and care about their own problems exclusively.
+	2. Does not interfere with the internals of ther components.
 2. Asynchronous, event-based communication where components:
 	1. Subscribe to events.
 	2. React when an event happens.
 	3. Return an observable — which emits events other components can subscribe to.
 
+## Summary
+
+React's props, hooks and JSX implement functional reactive programming principles.
+
+Props are immutable; hooks manage the side-effects; JSX is an observable.
+
+*React as a functional reactive architeture*
+![functional-reactive-react.png](functional-reactive-react.png)
 
 
 ## Footnotes
