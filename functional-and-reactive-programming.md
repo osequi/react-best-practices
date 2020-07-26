@@ -12,10 +12,12 @@ Composition is about how the components of the system can add up to form a whole
 
 ## Composition
 
-Composing up a system from smaller parts is best possible when the underlying components behave predictably:
+Composing up a system from smaller parts is best possible when the underlying components behave predictably. 
 
-1. They have clear and stable interfaces — input parameters and return values — to ease combinations.
-2. They process input parameters into return values in a clean way:
+In functional programming terms they are *pure*:
+
+1. Provide clear and stable interfaces — input parameters and return values — to ease combinations.
+2. Process input parameters into return values in a clean way:
 	1. Avoid modification of input parameters.
 	2. Avoid adding external information. Input parameters are enough to produce the return value. 
 	3. Avoid addeing external operations. The algorithm does the transformation and that's all.
