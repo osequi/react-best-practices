@@ -32,7 +32,7 @@ Facebook realised the drawbacks of this approach. The final result -- what the u
 
 Instead, they said, let's reverse the process. Start all up-front then connect everything else to it. UI before API.
 
-This approach empowers front-end and gives other departments a supportive role.
+This approach results better and more often, more real feedback; empowers front-end and gives other departments a supportive role.
 
 ## Start with a Mock
 
