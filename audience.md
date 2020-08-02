@@ -6,9 +6,9 @@ If one already knows HTML, CSS it might help, but it doesn't offer an outstandin
 
 Programming experience helps only if it's functional. In React no one writes complex algorithms; instead manipulates the data flow using functional programming concepts.
 
-The knowledge of older paradigms like MVC, REST and CRUD doesn't helps either. The React ecosystem -- GraphQL and Relay -- sports concepts unseen previously in web frameworks.
+The knowledge of older paradigms like MVC, REST and CRUD doesn't helps either. The React ecosystem -- GraphQL and Relay -- sports concepts unused previously in web frameworks.
 
-In the next chapters, learning React through best practices, one will find out gradually: 
+In the next chapters, learning React through best practices, one will gradually find out: 
 
 1. React is not just another web framework.
 2. React is foremost functional and reactive.

@@ -4,65 +4,57 @@ Thinking in React[^1] is Facebook's opinion on how "to build big, fast Web apps 
 
 The knowledge distilled here comes from building their own Facebook and Instagram products. 
 
-At the top of the document they rush to state React has a special way to think about app development. It's a different thought process than the previous attempts.
+The document presents a different thought process about app development.
 
-## Start with a  Mock
+1. Introduces a new principle
+2. Shifts control to the front-end
+3. Proposes steps to gradually assure stakeholders about the future success of the product
 
-In *What Are React Principles?*[^2] Dan Abramov, React core-member and developer advocate starts with: UI before API.
+## The Single Responsibility Principle (SRP)
 
-Now that's a new approach. Before React the thought process was:
-
-1. The UI/UX design team creates mockups and wireframes.
-2. The back-end team creates the API.
-3. The front-end team merges the two together. 
-
-Facebook realised the drawbacks of this approach. What the users see -- the app -- is the result of a complicated merging process across departments, done at the end.
-
-Instead, they said, let's start with front-end then connect everything else to it.  UI before API.
-
-In Thinking in React front-end developers are in power. They mock up the application.
-
-### Single Responsibility Principle (SRP)
-
-New principles build new paradigms. 
-
-A decade ago Ruby on Rails made MVC, REST and CRUD mainstream together with the **Don't Repeat Yourself (DRY)** principle.
+A decade ago Ruby on Rails came up with the MVC, REST, CRUD architecture built on the **Don't Repeat Yourself (DRY)** principle.
 
 Now Facebook introduces another principle, SRP, to the web. The concept is not new, is part of the UNIX philosophy: do one thing and do it well.
 
-Thinking in React says breaking up the UI into components should follow this principle of simplicity. 
+Thinking in React says applications should be broken into simple components. 
 
 "A component should ideally only do one thing. If it ends up growing, it should be decomposed into smaller subcomponents. 
 
-Once mastered this principle drives all decisions during a React project. From front-end down the whole stack and process.
+## UI before API
+
+UI before API[^2] is a new approach. Before React:
+
+1. The UI/UX design team created mockups and wireframes.
+2. The back-end team created the API.
+3. The front-end team combined them together. 
+
+Facebook realised the drawbacks of this approach. The final result -- what the users see, the app -- it's not driven by but assembled at the end.
+
+Instead, they said, let's reverse the process. Start all up-front then connect everything else to it. UI before API.
+
+Let's empower front-end because it is the front line. And support them with the other departments.
+
+## Start with a Mock
+
+xxx
 
 ## Build a static version first
 
 The mocking process assures all stakeholders about the common understanding of the business requirements. And offers the first proof of concept the app will follow the specifications.
 
-Next, Thinking in React says, let's wire in data. Let's repeat the success of the previous UI mocking process now on a level up.
+Next, Thinking in React says, let's wire in data. Let's repeat the success of the previous UI mocking process on a level up.
 
 Static data means no back-end work involved yet. Front-end tools are capable to generate text, images, and content necessary to give a glimpse how the final app will look.
 
-The end of this phase marks a milestone. The app works infantly yet visibly leaving no doubts about its feasibility.
-
 ## Add interactivity
 
-The dynamic version of the app brings technological advancements to the project.
+After a static prototype comes the dynamic prototype with user interactions and data loading.
 
-This phase defines the data needs of the front-end. Back-end is now ready to start the implementation. 
+Different teams enter the project and are kept in sync by front-end. 
+
+The data needs of the front-end are defined and back-end is ready to start the implementation. 
 
 The UI/UX design team is ready to take the live, responsive prototype and apply the branding.
-
-Different teams enter the project and kept in sync by front-end who gradually integrates the advancements and offers a single source of truth. 
-
-## Summary
-
-Thinking in React is a process well-tested to build large scale applications. 
-
-Introduces a new principle to web development and shifts control to the front-end.
-
-The steps gradually assure stakeholders about the future success of the product.
 
 ## Footnotes
 [^1]: [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) 
