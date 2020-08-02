@@ -4,7 +4,7 @@ Thinking in React[^1] is Facebook's opinion on how "to build big, fast Web apps 
 
 The knowledge distilled here comes from building their own Facebook and Instagram products. 
 
-The document presents a different thought process about app development.
+The document presents a different thought process about app development:
 
 1. Introduces a new principle
 2. Shifts control to the front-end
@@ -36,21 +36,25 @@ Let's empower front-end because it is the front line. And support them with the 
 
 ## Start with a Mock
 
-xxx
+Start the application design and development by mocking up the UI in the browser using components following SRP.
+
+The result will assure stakeholders about the understanding of the business requirements. 
+
+And offers a proof of concept the app is feasible and follows the specifications.
 
 ## Build a static version first
 
-The mocking process assures all stakeholders about the common understanding of the business requirements. And offers the first proof of concept the app will follow the specifications.
-
 Next, Thinking in React says, let's wire in data. Let's repeat the success of the previous UI mocking process on a level up.
 
-Static data means no back-end work involved yet. Front-end tools are capable to generate text, images, and content necessary to give a glimpse how the final app will look.
+Static data mocking means no back-end work involved yet. Front-end tools are capable to generate text, images, and content.
+
+All necessary to give a glimpse how the final app will look.
 
 ## Add interactivity
 
 After a static prototype comes the dynamic prototype with user interactions and data loading.
 
-Different teams enter the project and are kept in sync by front-end. 
+After this step different teams can enter the project and are kept in sync by front-end. 
 
 The data needs of the front-end are defined and back-end is ready to start the implementation. 
 
