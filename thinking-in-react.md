@@ -8,7 +8,7 @@ The document presents a different thought process about app development:
 
 1. Introduces a new principle
 2. Shifts control to the front-end
-3. Proposes steps to gradually assure stakeholders about the future success of the product
+3. Proposes steps to gradually build the product and assure stakeholders
 
 ## The Single Responsibility Principle (SRP)
 
@@ -22,17 +22,17 @@ Thinking in React says applications should be broken into simple components.
 
 ## UI before API
 
-UI before API[^2] is a new approach. Before React:
+UI before API[^2] is a new approach on collaboration. Before React:
 
 1. The UI/UX design team created mockups and wireframes.
 2. The back-end team created the API.
 3. The front-end team combined them together. 
 
-Facebook realised the drawbacks of this approach. The final result -- what the users see, the app -- it's not driven by but assembled at the end.
+Facebook realised the drawbacks of this approach. The final result -- what the users see, the app -- gets assembled at the end.
 
 Instead, they said, let's reverse the process. Start all up-front then connect everything else to it. UI before API.
 
-Let's empower front-end because it is the front line. And support them with the other departments.
+This approach empowers front-end and gives other departments a supportive role.
 
 ## Start with a Mock
 
