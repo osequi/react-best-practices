@@ -6,7 +6,7 @@
 
 ## React. A short history
 
-[[introduction-short-history]]
+- [[introduction-short-history]]
 
 ## Prerequisites
 - [[audience-prerequisites]]

@@ -61,6 +61,3 @@ Put on a map React sits between Angular and Elm.
 [^1]: [An Introduction to Functional Reactive Programming](https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 [^2]: [Writing Resilient Components](https://overreacted.io/writing-resilient-components/#writing-resilient-components)
 [^3]:[The functional programming alignment map by Dan Abramov](https://twitter.com/dan_abramov/status/1286844305575944193)
-
-## Resources
-1. [The original article](http://metamn.io/react/the-reactive-fuctional-nature-of-react/)
