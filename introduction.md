@@ -1,23 +1,34 @@
 # Introduction
 
-React is the most popular web framework today[^1].  
+*A Take On React Best Practices* is a high level overview of React and its ecosystem, and a set of best practices distilled from years of experience.
 
-Created by Facebook in 2013 the ecosystem grew mature in 2019. That year the facebook.com redesign and rewrite stack of choice became React, GraphQL and Relay[^2].
+The target audience is developers with or without React knowledge, and team leaders, project managers ready to familiarize with the big picture. 
 
-Strong company support attracts web developers coming from Javascript or from other programming languages. They often find the learning curve for React steep[^3]. 
+A priori web experience might help but often times it's an impediment. 
 
-That's right. React is not **Yet Another Web Framework (YAWF)**[^4]. 
+React is a new take on web and app development both in technology and workflow. It requires a new mindset for all participants in a project.
 
-It's a new programming style and information architecture for the web. Nothing to share with previous paradigms like MVC and REST[^5].
+The next chapters will teach you:
 
-Learning React means learning type-safety; functional and reactive programming; data-driven applications; graph databases and event-driven architectures.
+- React is part of the functional and reactive programming paradigm.
+- React comes with an ecosystem which is again functional and reactive.
+- There are ways to write React apps and there is the quasi-official *Facebook way* serving as best practice.
 
-And more. React requires a new thinking within a new context[^6].
+More, you'll become familiar with concepts like:
 
-## Footnotes
-[^1]: [The State of JavaScript Survey 2019](https://2019.stateofjs.com/front-end-frameworks/)
-[^2]: [Building the New facebook.com with React, GraphQL and Relay](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/)
-[^3]: [How to learn React.js in 2020](https://www.robinwieruch.de/learn-react-js)
-[^4]: [A Big Picture](http://metamn.io/react/a-big-picture/)
-[^5]: [GraphQL and REST APIs with AWS](http://metamn.io/react/graphql-and-rest-apis-with-aws/)
-[^6]: [Putting React in context](http://metamn.io/react/putting-react-in-context/)
+- GraphQL and Relay, the *Facebook stack* to create data-driven applications.
+- Single Responsibility Principle, the driving force behind the scene.
+- UI before API, a new workflow and organizational structure tailored to React.
+
+At the end you'll be able to put React in context with:
+
+- Event-driven architecture
+- Domain-driven design
+- Design systems
+
+And get some trips and tricks like:
+
+- Formal verification, a new way of testing.
+- AWS AppSync, the best React infrastructure provider today.
+- Open source packages, a set of curated and tested React accessories.
+

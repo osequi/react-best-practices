@@ -2,11 +2,17 @@
 
 ## Introduction
 
-- [[introduction]] - free form version
-- [[introduction-1]] - more disciplined version
+- [[introduction]]
 
-## Audience
-- [[audience]]
+## React. A short history
+
+[[introduction-short-history]]
+
+## Prerequisites
+- [[audience-prerequisites]]
+
+## Functional and Reactive programming
+- [[functional-and-reactive-programming]]
 
 ## The Facebook stack
 - [[the-facebook-stack]]
@@ -16,9 +22,6 @@
 
 ## Thinking in React
 - [[thinking-in-react]]
-
-## Functional and Reactive programming
-- [[functional-and-reactive-programming]]
 
 ## Event-driven architecture
 - [[event-driven-architecture]]

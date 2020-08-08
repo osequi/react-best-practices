@@ -1,8 +1,42 @@
 # react-best-practices
-React Best Practices
+A Take On React Best Practices
 
 - Created with https://obsidian.md/
 - See [[react-best-practices]]
+
+*A Take On React Best Practices* is a high level overview of React and its ecosystem, and a set of best practices distilled from years of experience.
+
+The target audience is developers with or without React knowledge, and team leaders, project managers ready to familiarize with the big picture. 
+
+A priori web experience might help but often times it's an impediment. 
+
+React is a new take on web and app development both in technology and workflow. It requires a new mindset for all participants in a project.
+
+The next chapters will teach you:
+
+- React is part of the functional and reactive programming paradigm.
+- React comes with an ecosystem which is again functional and reactive.
+- There are ways to write React apps and there is the quasi-official *Facebook way* serving as best practice.
+
+More, you'll become familiar with concepts like:
+
+- GraphQL and Relay, the *Facebook stack* to create data-driven applications.
+- Single Responsibility Principle, the driving force behind the scene.
+- UI before API, a new workflow and organizational structure tailored to React.
+
+At the end you'll be able to put React in context with:
+
+- Event-driven architecture
+- Domain-driven design
+- Design systems
+
+And get some trips and tricks like:
+
+- Formal verification, a new way of testing.
+- AWS AppSync, the best React infrastructure provider today.
+- Open source packages, a set of curated and tested React accessories.
+
+# React. A short history
 
 React is the most popular web framework today[^1].  
 
@@ -24,7 +58,7 @@ And as they say, forgetting a priori knowledge about web development may greatly
 [^3]: [How to learn React.js in 2020](https://www.robinwieruch.de/learn-react-js)
 [^4]: [A Big Picture](http://metamn.io/react/a-big-picture/)
 
-# Audience
+# Prerequisites
 
 React is suitable for everyone because it's a completely novel approach to web development.
 
@@ -33,13 +67,6 @@ If one already knows HTML, CSS it might help, but it doesn't offer an outstandin
 Programming experience helps only if it's functional. In React no one writes complex algorithms; instead manipulates the data flow using functional programming concepts.
 
 The knowledge of older paradigms like MVC, REST and CRUD doesn't helps either. The React ecosystem -- GraphQL and Relay -- sports concepts unseen previously in web frameworks.
-
-In the next chapters, learning React through best practices, one will find out gradually: 
-
-1. React is not just another web framework.
-2. React is foremost functional and reactive.
-3. It comes together with a novel full-stack ecosystem.
-4. React apps are best written using Facebook's original guidelines.
 
 # The Facebook stack
 

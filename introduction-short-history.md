@@ -1,4 +1,4 @@
-# Introduction 1
+# A short history of React
 
 React is the most popular web framework today[^1].  
 
